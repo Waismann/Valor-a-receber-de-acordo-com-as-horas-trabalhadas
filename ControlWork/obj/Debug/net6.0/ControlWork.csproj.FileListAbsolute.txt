@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\bin\Debug\net6.0\ControlWork.exe
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\bin\Debug\net6.0\ControlWork.deps.json
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\bin\Debug\net6.0\ControlWork.runtimeconfig.json
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\bin\Debug\net6.0\ControlWork.dll
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\bin\Debug\net6.0\ControlWork.pdb
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfo.cs
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.dll
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\refint\ControlWork.dll
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.pdb
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ControlWork.genruntimeconfig.cache
+C:\Users\User\Desktop\EstudoC#\Secao8EntitieEnum\ControlWork\ControlWork\obj\Debug\net6.0\ref\ControlWork.dll
